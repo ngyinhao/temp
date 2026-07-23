@@ -2,6 +2,10 @@
 
 A Streamlit application that predicts the median house value for a California district using a Random Forest regression model.
 
+## Live application
+
+[Open the California Housing Price Predictor](https://california-housing-rf-ngyinhao.streamlit.app/)
+
 ## Features
 
 - Interactive inputs for all eight California Housing dataset features
